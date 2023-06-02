@@ -1,5 +1,7 @@
 body {
-    background: rgb(255, 255, 255);
+    background: url("https://www.65ymas.com/uploads/s1/15/54/18/bigstock-senior-man-and-personal-traine-257524729_1_621x621.jpeg") no-repeat center center fixed;
+    min-height: 100hv;
+    width: 100%;
     font-family: 'Oswald', sans-serif;
     overflow: hidden;
 }
@@ -10,10 +12,11 @@ body {
 }
 
 .masthead {
-    color:rgb(0, 0, 0);
-    min-height: 30rem;
+    color: rgb(0, 0, 0);
+    min-height: 100vh;
     width: 100%;
-    height: 100%;
-    padding-top: 8rem;
-    background: url('/img/fondo.jpeg');
+    background: url('https://www.viveplenitud.com.ar/-/media/vivaplenitud/images/articles/ejercicios-para-personas-mayores.jpg') no-repeat center center fixed;
+    background-size: cover;
 }
+
+
